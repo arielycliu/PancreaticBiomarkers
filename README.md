@@ -3,6 +3,7 @@ All credit and data from Diagnostic and Biomarkers Statistical (DABS) Center
 
 Data on Pancreatic biomarkers ~ https://research.fhcrc.org/diagnostic-biomarkers-center/en/datasets.html
 
+~~~
 Contains data from wieand\wiedat2b.dta
   obs:           141                          S. Wieand - Pancreatic cancer
                                                 diagnostic marker data
@@ -36,3 +37,4 @@ _dta:
 
 d:
   1.  non-cancer patients (d==0) are pancreatitis controls.
+~~~
